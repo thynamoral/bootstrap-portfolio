@@ -1,0 +1,19 @@
+*{
+    font-family: 'Merriweather', serif;
+}
+
+span {
+    font-weight: 700;
+}
+section {
+    margin-top: 80px;
+}
+hr{
+    border: 1px solid black;
+}
+.my-img{
+    border-radius: 50%;
+}
+#middle-img{
+    margin: 0 40px;
+}
